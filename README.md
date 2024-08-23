@@ -1,20 +1,76 @@
 ### Hi 👋, I'm Sujan Bhatta
 
-- 🌱 I’m currently learning [Data Science / ML / AI].
-- 👨‍💻 I’m a web developer specializing in both frontend and backend development.
-- ⚙️ My tech stack includes:
-  - **Frontend:** React, HTML, CSS, JavaScript
-  - **Backend:** Node.js, Express
-  - **Databases:** SQL, MongoDB(Begginer)
-  - **CMS:** WordPress, Sanity
-  - **APIs:** RESTful APIs, GraphQL
-- 👯 I’m looking to collaborate on [open-source projects, tech communities].
-- 🤔 I’m looking for help with [advanced data science projects].
-- 💬 Ask me about [Python, Machine Learning, Web Development, Data Analysis].
-- 📫 How to reach me: [sujanbhatta0629@gmail.com](mailto:sujanbhatta0629@gmail.com)
 
-**Languages and Tools:**
-![Python](https://img.shields.io/badge/Python-blue) ![React](https://img.shields.io/badge/React-blue) ![Node.js](https://img.shields.io/badge/Node.js-green) ![SQL](https://img.shields.io/badge/SQL-orange) ![CMS](https://img.shields.io/badge/CMS-red)
+**∞  Currently Exploring:**  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Data Science** / **ML** / **AI**
+
+**Ω  Web Developer:**  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Frontend** and **Backend**
+
+**⚙️ Tech Stack:**
+  - **Frontend:** `React`, `HTML`, `CSS`, `JavaScript`
+  - **Backend:** `Node.js`, `Express`
+  - **Databases:** `SQL`, `MongoDB`
+  - **CMS:** `WordPress`, `Sanity`
+  - **APIs:** `RESTful APIs`, `GraphQL`
+
+**➰ Current Projects:**  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Open-source contributions** and **tech community building**
+
+**✉️ Reach Me At:**  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[sujanbhatta0629@gmail.com](mailto:sujanbhatta0629@gmail.com)
+
+
+
+### **Languages and Tools:**
+
+<p align="left">
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React" width="40" height="40"/> 
+  </a>
+  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="Node.js" width="40" height="40"/> 
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML" width="40" height="40"/> 
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS" width="40" height="40"/> 
+  </a>
+  <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="JavaScript" width="40" height="40"/> 
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> 
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="MongoDB" width="40" height="40"/> 
+  </a>
+  <a href="https://wordpress.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg" alt="WordPress" width="40" height="40"/> 
+  </a>
+  <a href="https://graphql.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" alt="GraphQL" width="40" height="40"/> 
+  </a>
+</p>
+
+---
+
 
 **Connect with me:**
-- [LinkedIn](https://www.linkedin.com/in/sujan-bhatta-080206290609sbsrsb/)
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/sujan-bhatta-080206290609sbsrsb/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://twitter.com/your-twitter-handle" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" width="40" height="40"/>
+  </a>
+</p>
+
+
+
+
+
+
