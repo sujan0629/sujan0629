@@ -1,11 +1,9 @@
 ### Hi 👋, I'm Sujan Bhatta
 
 
-**∞  Currently Exploring:**  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Data Science** / **ML** / **AI**
+**∞  Currently Exploring:**  **[ **Data Science** / **ML** / **AI** ]**
 
-**Ω  Web Developer:**  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Frontend** and **Backend**
+**Ω  Web Developer:**  **[ **Frontend** and **Backend** ]**
 
 **⚙️ Tech Stack:**
   - **Frontend:** `React`, `HTML`, `CSS`, `JavaScript`
@@ -14,11 +12,9 @@
   - **CMS:** `WordPress`, `Sanity`
   - **APIs:** `RESTful APIs`, `GraphQL`
 
-**➰ Current Projects:**  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Open-source contributions** and **tech community building**
+**➰ Current Projects:**  **Open-source contributions** and **tech community building**
 
-**✉️ Reach Me At:**  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[sujanbhatta0629@gmail.com](mailto:sujanbhatta0629@gmail.com)
+**✉️ Reach Me At:**  **[ sujanbhatta0629@gmail.com ](mailto:sujanbhatta0629@gmail.com)**
 
 
 
@@ -64,7 +60,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://twitter.com/your-twitter-handle" target="_blank" rel="noreferrer">
+  <a href="https://x.com/sujan_0629" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" width="40" height="40"/>
   </a>
 </p>
