@@ -6,8 +6,8 @@
 **Ω  Web Developer:**  **[ **Frontend** and **Backend** ]**
 
 **⚙️ Tech Stack:**
-  - **Frontend:** `React`, `HTML`, `CSS`, `JavaScript`
-  - **Backend:** `Node.js`, `Express`
+  - **Frontend:** `React`, `HTML`, `CSS`, `SCSS`, `JavaScript`
+  - **Backend:** `Node.js`, `Express (Learning)`
   - **Databases:** `SQL`, `MongoDB`
   - **CMS:** `WordPress`, `Sanity`
   - **APIs:** `RESTful APIs`, `GraphQL`
