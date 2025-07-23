@@ -57,24 +57,17 @@ Currently leading **Codelits Studio Pvt. Ltd.**, a youth-led company delivering 
 - **SaaS Marketplace** – Multi-tenant platform onboarding 20+ B2B clients  
 - **CMS Dashboards** – Custom tools for SMEs & nonprofits  
 - **Mobile Apps** – Cloud-integrated mobile apps using React Native  
-- **Streaming Web Apps** – Netflix-like platforms for local content
-
----
-
-### 📢 Achievements
-
-- 🏅 **Semi-finalist** @ GSEA Nationals 2025 (Entrepreneurs' Organization)  
-- 🎉 **Organizer** – Sudurpaschim Tech Fest 2025 with 600+ participants  
-- 🌐 **Global Reach** – 200K+ weekly impressions across Codelits networks  
-- 🤝 **Partners** – Netherlands, New Zealand Embassy, Robotics Association of Nepal, Code For Change
+- **Web Apps** – Various web apps
 
 ---
 
 ### 🧾 Certifications
 
+- HarvardX LBTechX1 Technology Entrepreneurship: Lab to Market
+- HarvardX SW47x Entrepreneurship in Emerging Economies
 - Meta Front-End Developer Professional Certificate  
 - Cybersecurity Fundamentals (OPSWAT)  
-- GSEA Workshops – Startup Scaling, Pitching, Leadership
+- Simplilearn Introduction to Javascript
 
 ---
 
@@ -84,7 +77,6 @@ Currently leading **Codelits Studio Pvt. Ltd.**, a youth-led company delivering 
 - 📫 [Email](mailto:sujanbhatta@codelitsstudio.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/sujan-bhatta-080206290609sbsrsb/)  
 - 🐦 [X (Twitter)](https://x.com/sujan_0629)  
-- 💻 [GitHub](https://github.com/sujan0629)
 
 ---
 
