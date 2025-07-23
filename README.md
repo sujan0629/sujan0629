@@ -22,7 +22,7 @@ Currently leading **Codelits Studio Pvt. Ltd.**, a youth-led company delivering 
 ### 💼 Tech Stack
 
 #### 🌐 **Frontend**
-- `React.js`, `Next.js`, `Tailwind CSS`, `Bootstrap`, `SCSS`, `HTML5`, `CSS3`, `JavaScript (ES6+)`
+- `React.js`, `Next.js`, `Tailwind CSS`, `Bootstrap`, `SCSS`, `HTML5`, `CSS3`, `Typescript`,`JavaScript (ES6+)`
 - `Figma`, `Adobe XD`, `Canva`, `GSAP`, `Framer Motion`
 
 #### 🧠 **AI & Data**
