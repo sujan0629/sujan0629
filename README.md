@@ -1,75 +1,92 @@
-### Hi 👋, I'm Sujan Bhatta
+### 👋 Hey, I’m Sujan Bhatta
 
-
-**∞  Currently Exploring:**  **[ **Data Science** / **ML** / **AI** ]**
-
-**Ω  Web Developer:**  **[ **Frontend** and **Backend** ]**
-
-**⚙️ Tech Stack:**
-  - **Frontend:** `React`, `HTML`, `CSS`, `SCSS`, `JavaScript`
-  - **Backend:** `Node.js`, `Express (Learning)`
-  - **Databases:** `SQL`, `MongoDB`
-  - **CMS:** `WordPress`, `Sanity`
-  - **APIs:** `RESTful APIs`, `GraphQL`
-
-**➰ Current Projects:**  **Open-source contributions** and **tech community building**
-
-**✉️ Reach Me At:**  **[ sujanbhatta0629@gmail.com ](mailto:sujanbhatta0629@gmail.com)**
-
-
-
-### **Languages and Tools:**
-
-<p align="left">
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React" width="40" height="40"/> 
-  </a>
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="Node.js" width="40" height="40"/> 
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML" width="40" height="40"/> 
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS" width="40" height="40"/> 
-  </a>
-  <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="JavaScript" width="40" height="40"/> 
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> 
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="MongoDB" width="40" height="40"/> 
-  </a>
-  <a href="https://wordpress.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg" alt="WordPress" width="40" height="40"/> 
-  </a>
-  <a href="https://graphql.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" alt="GraphQL" width="40" height="40"/> 
-  </a>
-</p>
+🚀 AI Entrepreneur | Full-Stack Developer | Managing Director @ [Codelits Studio](https://codelitsstudio.com)  
+🎓 B.Sc. CS Student @ Kathmandu University  
+📍 Dhulikhel, Nepal | 🌍 Working globally
 
 ---
 
+### 🧠 About Me
 
-**Connect with me:**
+I'm a tech entrepreneur and developer with 4+ years of experience building impactful SaaS platforms, AI-powered tools, and full-stack web applications.  
+Currently leading **Codelits Studio Pvt. Ltd.**, a youth-led company delivering cutting-edge solutions in AI, automation, and digital infrastructure.
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/sujan-bhatta-080206290609sbsrsb/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://x.com/sujan_0629" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" width="40" height="40"/>
-  </a>
-</p>
+- ⚙️ 15+ full-stack projects completed as a freelancer (MERN/Next.js)
+- 🧠 Built & deployed proprietary AI research tools with LLM integration
+- 📈 Led Codelits Studio to 1M+ revenue and partnerships across 3 countries
+- 🏆 GSEA 2025 Semi-finalist | Organizer @ Sudurpaschim Tech Fest
+- 🧑‍🏫 Mentor to 25+ students in dev & entrepreneurship
 
+---
 
+### 💼 Tech Stack
 
+#### 🌐 **Frontend**
+- `React.js`, `Next.js`, `Tailwind CSS`, `Bootstrap`, `SCSS`, `HTML5`, `CSS3`, `JavaScript (ES6+)`
+- `Figma`, `Adobe XD`, `Canva`, `GSAP`, `Framer Motion`
 
+#### 🧠 **AI & Data**
+- `Prompt Engineering`, `LLM API Integration (OpenAI)`, `Basic Machine Learning`, `AI Automation`, `Data Preprocessing`, `Python (basic)`
 
+#### ⚙️ **Backend & Server**
+- `Node.js`, `Express.js`, `REST APIs`, `GraphQL`, `JWT Auth`, `Middleware`, `MVC Architecture`
 
+#### 🧱 **Databases**
+- `MongoDB`, `Mongoose`, `MySQL`, `Firebase Firestore`, `Cloud Storage`
 
+#### 📱 **Mobile Development**
+- `React Native`, `Expo`, `Firebase Auth`, `Push Notifications`
 
+#### ☁️ **Cloud & Deployment**
+- `Vercel`, `Netlify`, `Firebase Hosting`, `AWS (basic)`, `Azure (basic)`, `cPanel`, `Cloudflare`, `Render`, `GitHub Pages`
 
+#### 🛡️ **Security & Dev Tools**
+- `OAuth`, `JWT`, `bcrypt.js`, `Helmet.js`, `OPSWAT`, `Cybersecurity Fundamentals`
+- `Git`, `GitHub`, `Postman`, `Thunder Client`, `Notion`, `VS Code`
+
+#### 🧠 **CMS & No-Code Tools**
+- `WordPress`, `Sanity.io`, `Wix`, `Elementor`, `Tilda`
+
+#### 🧪 **Other Skills**
+- `SEO Optimization`, `Agile Workflow`, `Scrum Basics`, `SaaS App Architecture`, `Team Leadership`, `Startup Strategy`, `Multi-tenant Systems`, `Open-source Contributions`
+
+---
+
+### 🚧 Key Projects
+
+- **Codelits AI Tools** – LLM-powered, optimized inference tools for researchers  
+- **SaaS Marketplace** – Multi-tenant platform onboarding 20+ B2B clients  
+- **CMS Dashboards** – Custom tools for SMEs & nonprofits  
+- **Mobile Apps** – Cloud-integrated mobile apps using React Native  
+- **Streaming Web Apps** – Netflix-like platforms for local content
+
+---
+
+### 📢 Achievements
+
+- 🏅 **Semi-finalist** @ GSEA Nationals 2025 (Entrepreneurs' Organization)  
+- 🎉 **Organizer** – Sudurpaschim Tech Fest 2025 with 600+ participants  
+- 🌐 **Global Reach** – 200K+ weekly impressions across Codelits networks  
+- 🤝 **Partners** – Netherlands, New Zealand Embassy, Robotics Association of Nepal, Code For Change
+
+---
+
+### 🧾 Certifications
+
+- Meta Front-End Developer Professional Certificate  
+- Cybersecurity Fundamentals (OPSWAT)  
+- GSEA Workshops – Startup Scaling, Pitching, Leadership
+
+---
+
+### 🌐 Let’s Connect
+
+- 🔗 [Website](https://sujan0629.com.np)  
+- 📫 [Email](mailto:sujanbhatta@codelitsstudio.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/sujan-bhatta-080206290609sbsrsb/)  
+- 🐦 [X (Twitter)](https://x.com/sujan_0629)  
+- 💻 [GitHub](https://github.com/sujan0629)
+
+---
+
+_“Code with clarity. Build with vision. Lead with purpose.”_
