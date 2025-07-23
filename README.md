@@ -1,6 +1,6 @@
 ### 👋 Hey, I’m Sujan Bhatta
 
-🚀 AI Entrepreneur | Full-Stack Developer | Managing Director @ [Codelits Studio](https://codelitsstudio.com)  
+🚀 AI Entrepreneur | Full-Stack Developer | Frontend Engineer |
 🎓 B.Sc. CS Student @ Kathmandu University  
 📍 Dhulikhel, Nepal | 🌍 Working globally
 
@@ -11,10 +11,9 @@
 I'm a tech entrepreneur and developer with 4+ years of experience building impactful SaaS platforms, AI-powered tools, and full-stack web applications.  
 Currently leading **Codelits Studio Pvt. Ltd.**, a youth-led company delivering cutting-edge solutions in AI, automation, and digital infrastructure.
 
-- ⚙️ 15+ full-stack projects completed as a freelancer (MERN/Next.js)
+- ⚙️ 20+ full-stack projects completed as a freelancer (MERN/Next.js)
 - 🧠 Built & deployed proprietary AI research tools with LLM integration
-- 📈 Led Codelits Studio
-- 🏆 GSEA 2025 Semi-finalist | Organizer @ Sudurpaschim Tech Fest
+- 🏆 GSEA 2025 Semi-finalist
 - 🧑‍🏫 Mentor to 25+ students in dev & entrepreneurship
 
 ---
