@@ -79,7 +79,6 @@ Mongoose, Cloud Storage
 <p>
   <img src="https://cdn.simpleicons.org/vercel/000000" alt="Vercel" width="40" height="40"/> 
   <img src="https://cdn.simpleicons.org/netlify/00C7B7" alt="Netlify" width="40" height="40"/> 
-  <img src="https://cdn.simpleicons.org/aws/FF9900" alt="AWS" width="40" height="40"/> 
   <img src="https://cdn.simpleicons.org/cpanel/DB0000" alt="cPanel" width="40" height="40"/> 
   <img src="https://cdn.simpleicons.org/cloudflare/F38020" alt="Cloudflare" width="40" height="40"/> 
   <img src="https://cdn.simpleicons.org/render/00CFFF" alt="Render" width="40" height="40"/> 
@@ -111,30 +110,32 @@ SEO Optimization, Agile Workflow, Scrum Basics, SaaS App Architecture, Team Lead
 
 ## GitHub Stats
 
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin-bottom: 40px;">
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: flex-start; margin-bottom: 40px;">
 
-<div style="background: linear-gradient(135deg,#0D1117,#1F2937); color:white; border-radius:15px; padding:25px; width:420px; text-align:center;">
+<!-- GitHub Stats -->
+<div style="background: linear-gradient(135deg,#0D1117,#1F2937); color:white; border-radius:15px; padding:25px; width:420px; text-align:left;">
   <h3>GitHub Stats</h3>
   <img src="https://github-readme-stats.vercel.app/api?username=sujan0629&show_icons=true&theme=dark&hide=stars=true&hide_border=true&count_private=true" width="400"/>
 </div>
 
-<div style="background: linear-gradient(135deg,#1E3A8A,#2563EB); color:white; border-radius:15px; padding:25px; width:420px; text-align:center;">
+<!-- Top Languages -->
+<div style="background: linear-gradient(135deg,#1E3A8A,#2563EB); color:white; border-radius:15px; padding:25px; width:420px; text-align:left;">
   <h3>Top Languages</h3>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujan0629&layout=compact&theme=dark&hide_border=true" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujan0629&layout=compact&theme=dark&hide_border=true&langs_count=6" width="400"/>
 </div>
 
 </div>
 
-<div style="background: linear-gradient(135deg,#0D1117,#1F2937); color:white; border-radius:15px; padding:25px; width:420px; text-align:center;">
+<!-- Contribution Streak -->
+<div style="background: linear-gradient(135deg,#0D1117,#1F2937); color:white; border-radius:15px; padding:25px; width:420px; text-align:left; margin-bottom: 20px;">
   <h3>Contribution Streak</h3>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sujan0629&theme=dark&hide_border=true" width="400"/>
 </div>
 
-<div style="background: linear-gradient(135deg,#1E3A8A,#2563EB); color:white; border-radius:15px; padding:25px; width:420px; text-align:center;">
+<!-- Highlighted Projects -->
+<div style="background: linear-gradient(135deg,#1E3A8A,#2563EB); color:white; border-radius:15px; padding:25px; width:420px; text-align:left;">
   <h3>Highlighted Projects</h3>
   <p>Codelits AI Tools<br>SaaS Marketplace<br>Mobile & Web Apps<br>CMS Dashboards</p>
-</div>
-
 </div>
 
 ---
@@ -150,10 +151,25 @@ SEO Optimization, Agile Workflow, Scrum Basics, SaaS App Architecture, Team Lead
 ---
 
 ## Contact
-
 <p>
-  <a href="https://sujan0629.com.np"><img src="https://cdn.simpleicons.org/internetexplorer/0078D7" width="30" height="30"/></a>
-  <a href="mailto:sujanbhatta@codelitsstudio.com"><img src="https://cdn.simpleicons.org/gmail/D14836" width="30" height="30"/></a>
-  <a href="https://www.linkedin.com/in/sujan-bhatta-080206290609sbsrsb/"><img src="https://cdn.simpleicons.org/linkedin/0077B5" width="30" height="30"/></a>
-  <a href="https://x.com/sujan_0629"><img src="https://cdn.simpleicons.org/twitter/1DA1F2" width="30" height="30"/></a>
+  <!-- Website -->
+  <a href="https://sujan0629.com.np" target="_blank">
+    <img src="https://cdn.simpleicons.org/internet/000000" alt="Website" width="30" height="30"/>
+  </a>
+  
+  <!-- Email -->
+  <a href="mailto:sujanbhatta@codelitsstudio.com">
+    <img src="https://cdn.simpleicons.org/gmail/D14836" alt="Email" width="30" height="30"/>
+  </a>
+  
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/sujan-bhatta-080206290609sbsrsb/" target="_blank">
+    <img src="https://cdn.simpleicons.org/linkedin/0077B5" alt="LinkedIn" width="30" height="30"/>
+  </a>
+  
+  <!-- Twitter/X -->
+  <a href="https://x.com/sujan_0629" target="_blank">
+    <img src="https://cdn.simpleicons.org/twitter/1DA1F2" alt="Twitter/X" width="30" height="30"/>
+  </a>
 </p>
+
