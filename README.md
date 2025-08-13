@@ -1,8 +1,7 @@
 # Sujan Bhatta
 
 **AI Entrepreneur | Full-Stack Developer | Frontend Engineer**  
-B.Sc. CS Student, Kathmandu University  
-Dhangadhi, Nepal | Working globally
+Kathmandu, Nepal | Working globally
 
 ---
 
