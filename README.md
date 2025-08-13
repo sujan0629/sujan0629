@@ -28,11 +28,9 @@ Currently leading **Codelits Studio Pvt. Ltd.**, a youth-led company delivering 
   <img src="https://cdn.simpleicons.org/bootstrap/7952B3" alt="Bootstrap" width="40" height="40"/> 
   <img src="https://cdn.simpleicons.org/sass/CC6699" alt="SCSS" width="40" height="40"/> 
   <img src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML5" width="40" height="40"/> 
-  <img src="https://cdn.simpleicons.org/css3/1572B6" alt="CSS3" width="40" height="40"/> 
   <img src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" width="40" height="40"/> 
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" width="40" height="40"/> 
   <img src="https://cdn.simpleicons.org/figma/F24E1E" alt="Figma" width="40" height="40"/> 
-  <img src="https://cdn.simpleicons.org/adobe/FF0000" alt="Adobe XD" width="40" height="40"/> 
   <img src="https://cdn.simpleicons.org/canva/00C4CC" alt="Canva" width="40" height="40"/> 
   <img src="https://cdn.simpleicons.org/greensock/88CE02" alt="GSAP" width="40" height="40"/> 
   <img src="https://cdn.simpleicons.org/framer/0055FF" alt="Framer Motion" width="40" height="40"/>
@@ -42,6 +40,8 @@ Currently leading **Codelits Studio Pvt. Ltd.**, a youth-led company delivering 
 <p>
   <img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" width="40" height="40"/> 
   <img src="https://cdn.simpleicons.org/openai/412991" alt="OpenAI" width="40" height="40"/>
+  <img src="https://icons8.com/icons/set/gemini-ai" alt="Gemini AI" width="40" height="40"/> 
+  <img src="https://icons8.com/icons/set/genkit" alt="Genkit" width="40" height="40"/>
 </p>
 <p>
 Prompt Engineering, LLM API Integration, Basic Machine Learning, AI Automation, Data Preprocessing
@@ -52,7 +52,6 @@ Prompt Engineering, LLM API Integration, Basic Machine Learning, AI Automation, 
   <img src="https://cdn.simpleicons.org/node.js/339933" alt="Node.js" width="40" height="40"/> 
   <img src="https://cdn.simpleicons.org/express/000000" alt="Express.js" width="40" height="40"/> 
   <img src="https://cdn.simpleicons.org/graphql/E10098" alt="GraphQL" width="40" height="40"/> 
-  <img src="https://cdn.simpleicons.org/jwt/000000" alt="JWT" width="40" height="40"/> 
 </p>
 <p>
 REST APIs, Middleware, MVC Architecture
@@ -81,7 +80,6 @@ Mongoose, Cloud Storage
   <img src="https://cdn.simpleicons.org/vercel/000000" alt="Vercel" width="40" height="40"/> 
   <img src="https://cdn.simpleicons.org/netlify/00C7B7" alt="Netlify" width="40" height="40"/> 
   <img src="https://cdn.simpleicons.org/aws/FF9900" alt="AWS" width="40" height="40"/> 
-  <img src="https://cdn.simpleicons.org/microsoftazure/0089D6" alt="Azure" width="40" height="40"/> 
   <img src="https://cdn.simpleicons.org/cpanel/DB0000" alt="cPanel" width="40" height="40"/> 
   <img src="https://cdn.simpleicons.org/cloudflare/F38020" alt="Cloudflare" width="40" height="40"/> 
   <img src="https://cdn.simpleicons.org/render/00CFFF" alt="Render" width="40" height="40"/> 
@@ -93,7 +91,6 @@ Mongoose, Cloud Storage
   <img src="https://cdn.simpleicons.org/git/F05032" alt="Git" width="40" height="40"/> 
   <img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" width="40" height="40"/> 
   <img src="https://cdn.simpleicons.org/postman/FF6C37" alt="Postman" width="40" height="40"/> 
-  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" alt="VS Code" width="40" height="40"/>
 </p>
 <p>
 OAuth, JWT, bcrypt.js, Helmet.js, OPSWAT, Cybersecurity Fundamentals, Thunder Client, Notion
@@ -105,7 +102,6 @@ OAuth, JWT, bcrypt.js, Helmet.js, OPSWAT, Cybersecurity Fundamentals, Thunder Cl
   <img src="https://cdn.simpleicons.org/sanity/FF3A00" alt="Sanity.io" width="40" height="40"/> 
   <img src="https://cdn.simpleicons.org/wix/1D1D1B" alt="Wix" width="40" height="40"/> 
   <img src="https://cdn.simpleicons.org/elementor/2200FF" alt="Elementor" width="40" height="40"/> 
-  <img src="https://cdn.simpleicons.org/tilda/000000" alt="Tilda" width="40" height="40"/>
 </p>
 
 ### Other Skills
@@ -125,6 +121,8 @@ SEO Optimization, Agile Workflow, Scrum Basics, SaaS App Architecture, Team Lead
 <div style="background: linear-gradient(135deg,#1E3A8A,#2563EB); color:white; border-radius:15px; padding:25px; width:420px; text-align:center;">
   <h3>Top Languages</h3>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujan0629&layout=compact&theme=dark&hide_border=true" width="400"/>
+</div>
+
 </div>
 
 <div style="background: linear-gradient(135deg,#0D1117,#1F2937); color:white; border-radius:15px; padding:25px; width:420px; text-align:center;">
