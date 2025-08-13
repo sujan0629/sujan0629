@@ -40,8 +40,12 @@ Currently leading **Codelits Studio Pvt. Ltd.**, a youth-led company delivering 
 <p>
   <img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" width="40" height="40"/> 
   <img src="https://cdn.simpleicons.org/openai/412991" alt="OpenAI" width="40" height="40"/>
-  <img src="https://icons8.com/icons/set/gemini-ai" alt="Gemini AI" width="40" height="40"/> 
-  <img src="https://icons8.com/icons/set/genkit" alt="Genkit" width="40" height="40"/>
+<!-- Gemini AI Icon -->
+<img src="https://img.icons8.com/ios-filled/50/3776AB/robot.png" alt="Gemini AI" width="40" height="40"/>
+
+<!-- Genkit Icon -->
+<img src="https://img.icons8.com/ios-filled/50/FF6600/technology.png" alt="Genkit" width="40" height="40"/>
+
 </p>
 <p>
 Prompt Engineering, LLM API Integration, Basic Machine Learning, AI Automation, Data Preprocessing
@@ -154,22 +158,33 @@ SEO Optimization, Agile Workflow, Scrum Basics, SaaS App Architecture, Team Lead
 <p>
   <!-- Website -->
   <a href="https://sujan0629.com.np" target="_blank">
-    <img src="https://cdn.simpleicons.org/internet/000000" alt="Website" width="30" height="30"/>
+    <img src="https://img.icons8.com/ios-filled/50/000000/globe.png" alt="Website" width="30" height="30"/>
   </a>
-  
+
   <!-- Email -->
   <a href="mailto:sujanbhatta@codelitsstudio.com">
-    <img src="https://cdn.simpleicons.org/gmail/D14836" alt="Email" width="30" height="30"/>
+    <img src="https://img.icons8.com/ios-filled/50/D14836/gmail.png" alt="Email" width="30" height="30"/>
   </a>
-  
+
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/sujan-bhatta-080206290609sbsrsb/" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkedin/0077B5" alt="LinkedIn" width="30" height="30"/>
+    <img src="https://img.icons8.com/ios-filled/50/0077B5/linkedin.png" alt="LinkedIn" width="30" height="30"/>
   </a>
-  
+
   <!-- Twitter/X -->
   <a href="https://x.com/sujan_0629" target="_blank">
-    <img src="https://cdn.simpleicons.org/twitter/1DA1F2" alt="Twitter/X" width="30" height="30"/>
+    <img src="https://img.icons8.com/ios-filled/50/1DA1F2/twitter.png" alt="Twitter/X" width="30" height="30"/>
+  </a>
+
+  <!-- Gemini AI -->
+  <a href="https://www.google.com/search?q=gemini+ai" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/3776AB/robot.png" alt="Gemini AI" width="30" height="30"/>
+  </a>
+
+  <!-- Genkit -->
+  <a href="https://www.google.com/search?q=genkit" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/FF6600/technology.png" alt="Genkit" width="30" height="30"/>
   </a>
 </p>
+
 
