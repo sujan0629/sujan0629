@@ -118,7 +118,7 @@ SEO Optimization, Agile Workflow, Scrum Basics, SaaS App Architecture, Team Lead
 <!-- GitHub Stats -->
 <div style="background: linear-gradient(135deg,#0D1117,#1F2937); color:white; border-radius:15px; padding:25px; width:420px; text-align:left; margin-bottom: 20px;">
   <h3>GitHub Stats</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=sujan0629&show_icons=true&theme=dark&hide=stars=true&hide_border=true&count_private=true" width="400" alt="Sujan GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=sujan0629&show_icons=true&theme=dark&hide_border=true&count_private=true&hide_rank=true" width="400"/>
 </div>
 
 <!-- Top Languages -->
