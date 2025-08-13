@@ -1,59 +1,123 @@
-<h1 align="center">Hi 👋, I'm Sujan Bhatta</h1>
-<h3 align="center">AI Entrepreneur | Full-Stack Developer | Frontend Engineer</h3>
+### 👋 Hey, I’m Sujan Bhatta
 
-<p align="center">
-  <a href="https://sujan0629.com.np" target="_blank"><img src="https://img.shields.io/badge/Website-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-  <a href="https://x.com/sujan_0629" target="_blank"><img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/sujan-bhatta-080206290609sbsrsb/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:sujanbhatta@codelitsstudio.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+🚀 **AI Entrepreneur** | **Full-Stack Developer** | **Frontend Engineer**  
+🎓 B.Sc. CS Student @ Kathmandu University  
+📍 Dhulikhel, Nepal | 🌍 Working globally
 
 ---
 
-### ⚡ Quick Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sujan0629&show_icons=true&theme=radical&hide_border=false&count_private=true" alt="GitHub Stats" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujan0629&layout=compact&theme=radical&hide_border=false" alt="Top Languages" width="400"/>
-</p>
+### 🧠 About Me
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sujan0629&theme=radical&hide_border=false" alt="GitHub Streak" width="400"/>
-</p>
+I'm a tech entrepreneur and developer with 4+ years of experience building impactful SaaS platforms, AI-powered tools, and full-stack web applications.  
+Currently leading **Codelits Studio Pvt. Ltd.**, a youth-led company delivering cutting-edge solutions in AI, automation, and digital infrastructure.
+
+- ⚙️ 20+ full-stack projects completed as a freelancer (MERN/Next.js)
+- 🧠 Built & deployed proprietary AI research tools with LLM integration
+- 🏆 GSEA 2025 Semi-finalist
+- 🧑‍🏫 Mentor to 25+ students in dev & entrepreneurship
 
 ---
 
-### 🛠️ Skills & Tools
-<div align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+### 💼 Tech Stack
+
+#### 🌐 **Frontend**
+- React.js, Next.js, Tailwind CSS, Bootstrap, SCSS, HTML5, CSS3, Typescript, JavaScript (ES6+)
+- Figma, Adobe XD, Canva, GSAP, Framer Motion
+
+#### 🧠 **AI & Data**
+- Prompt Engineering, LLM API Integration (OpenAI), Basic Machine Learning, AI Automation, Data Preprocessing, Python (basic)
+
+#### ⚙️ **Backend & Server**
+- Node.js, Express.js, REST APIs, GraphQL, JWT Auth, Middleware, MVC Architecture
+
+#### 🧱 **Databases**
+- MongoDB, Mongoose, MySQL, Firebase Firestore, Cloud Storage
+
+#### 📱 **Mobile Development**
+- React Native, Expo, Firebase Auth, Push Notifications
+
+#### ☁️ **Cloud & Deployment**
+- Vercel, Netlify, Firebase Hosting, AWS (basic), Azure (basic), cPanel, Cloudflare, Render, GitHub Pages
+
+#### 🛡️ **Security & Dev Tools**
+- OAuth, JWT, bcrypt.js, Helmet.js, OPSWAT, Cybersecurity Fundamentals
+- Git, GitHub, Postman, Thunder Client, Notion, VS Code
+
+#### 🧠 **CMS & No-Code Tools**
+- WordPress, Sanity.io, Wix, Elementor, Tilda
+
+#### 🧪 **Other Skills**
+- SEO Optimization, Agile Workflow, Scrum Basics, SaaS App Architecture, Team Leadership, Startup Strategy, Multi-tenant Systems, Open-source Contributions
+
+---
+
+### 🚧 Key Projects
+
+- **Codelits AI Tools** – LLM-powered, optimized inference tools for researchers  
+- **SaaS Marketplace** – Multi-tenant platform onboarding 20+ B2B clients  
+- **CMS Dashboards** – Custom tools for SMEs & nonprofits  
+- **Mobile Apps** – Cloud-integrated mobile apps using React Native  
+- **Web Apps** – Various web apps
+
+---
+
+### 🧾 Certifications
+
+- HarvardX LBTechX1 Technology Entrepreneurship: Lab to Market
+- HarvardX SW47x Entrepreneurship in Emerging Economies
+- Meta Front-End Developer Professional Certificate  
+- Cybersecurity Fundamentals (OPSWAT)  
+- Simplilearn Introduction to Javascript
+
+---
+
+### 📊 GitHub Stats & Boxes
+
+<div align="center" style="display: flex; gap: 15px; flex-wrap: wrap; justify-content: center;">
+
+<!-- GitHub Stats -->
+<div style="background-color:#0D1117; color:white; border-radius:10px; padding:15px; width:220px; text-align:center;">
+  <h4>GitHub Stats</h4>
+  <img src="https://github-readme-stats.vercel.app/api?username=sujan0629&show_icons=true&theme=dark&hide_border=true" width="200"/>
+</div>
+
+<!-- Top Languages -->
+<div style="background-color:#1F2937; color:white; border-radius:10px; padding:15px; width:220px; text-align:center;">
+  <h4>Top Languages</h4>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujan0629&layout=compact&theme=dark&hide_border=true" width="200"/>
+</div>
+
+<!-- Streak Stats -->
+<div style="background-color:#0D1117; color:white; border-radius:10px; padding:15px; width:220px; text-align:center;">
+  <h4>Contribution Streak</h4>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sujan0629&theme=dark&hide_border=true" width="200"/>
+</div>
+
+<!-- Projects -->
+<div style="background-color:#1E3A8A; color:white; border-radius:10px; padding:15px; width:220px; text-align:center;">
+  <h4>Highlighted Projects</h4>
+  <p>Codelits AI Tools<br>SaaS Marketplace<br>Mobile & Web Apps<br>CMS Dashboards</p>
+</div>
+
+<!-- Connections -->
+<div style="background-color:#111827; color:white; border-radius:10px; padding:15px; width:220px; text-align:center;">
+  <h4>Connect</h4>
+  <a href="https://x.com/sujan_0629" target="_blank">X</a> | 
+  <a href="https://www.linkedin.com/in/sujan-bhatta-080206290609sbsrsb/" target="_blank">LinkedIn</a> | 
+  <a href="mailto:sujanbhatta@codelitsstudio.com" target="_blank">Email</a> | 
+  <a href="https://sujan0629.com.np" target="_blank">Website</a>
+</div>
+
 </div>
 
 ---
 
-### 🚀 Projects & Highlights
-<div align="center">
-  <img src="https://img.shields.io/badge/Codelits%20AI%20Tools-LLM_Powered-4B8BBE?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SaaS%20Marketplace-20%2B%20B2B-FF6F61?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Mobile%20Apps-React%20Native-61DAFB?style=for-the-badge&logo=react" />
-  <img src="https://img.shields.io/badge/Web%20Apps-Fullstack-6F42C1?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/CMS%20Dashboards-SME%2FNonprofit-0D1117?style=for-the-badge" />
-</div>
+### 🌐 Let’s Connect
 
----
-
-### 🌐 Connect With Me
-<p align="center">
-  <a href="https://x.com/sujan_0629" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40"/></a>
-  <a href="https://www.linkedin.com/in/sujan-bhatta-080206290609sbsrsb/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/></a>
-  <a href="mailto:sujanbhatta@codelitsstudio.com" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" height="30" width="40"/></a>
-  <a href="https://sujan0629.com.np" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/website.svg" height="30" width="40"/></a>
-</p>
+- 🔗 [Website](https://sujan0629.com.np)  
+- 📫 [Email](mailto:sujanbhatta@codelitsstudio.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/sujan-bhatta-080206290609sbsrsb/)  
+- 🐦 [X (Twitter)](https://x.com/sujan_0629)  
 
 ---
 
