@@ -44,7 +44,7 @@ Currently leading **Codelits Studio Pvt. Ltd.**, a youth-led company delivering 
 <img src="https://img.icons8.com/ios-filled/50/3776AB/robot.png" alt="Gemini AI" width="40" height="40"/>
 
 <!-- Genkit Icon -->
-<img src="https://img.icons8.com/ios-filled/50/FF6600/technology.png" alt="Genkit" width="40" height="40"/>
+<img src="https://img.icons8.com/ios-filled/50/FF6600/artificial-intelligence.png" alt="Genkit" width="40" height="40"/>
 
 </p>
 <p>
@@ -176,15 +176,7 @@ SEO Optimization, Agile Workflow, Scrum Basics, SaaS App Architecture, Team Lead
     <img src="https://img.icons8.com/ios-filled/50/1DA1F2/twitter.png" alt="Twitter/X" width="30" height="30"/>
   </a>
 
-  <!-- Gemini AI -->
-  <a href="https://www.google.com/search?q=gemini+ai" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/3776AB/robot.png" alt="Gemini AI" width="30" height="30"/>
-  </a>
 
-  <!-- Genkit -->
-  <a href="https://www.google.com/search?q=genkit" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/FF6600/technology.png" alt="Genkit" width="30" height="30"/>
-  </a>
 </p>
 
 
