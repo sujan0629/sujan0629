@@ -12,7 +12,6 @@ Currently leading **Codelits Studio Pvt. Ltd.**, a youth-led company delivering 
 
 - ⚙️ 20+ full-stack projects completed as a freelancer (MERN/Next.js)  
 - 🧠 Built and deployed proprietary AI research tools with LLM integration  
-- 🏆 GSEA 2025 Semi-finalist  
 - 🧑‍🏫 Mentored 25+ students in dev & entrepreneurship  
 
 ---
