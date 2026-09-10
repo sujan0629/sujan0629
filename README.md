@@ -5,6 +5,7 @@ I build LLM systems end to end: retrieval and agent pipelines, evaluation harnes
 Most of my production work is in private repositories under @codelitsstudio, @Humanity-Founders and @Playxio-Hub, so this profile shows a fraction of it. Happy to walk through architecture and decisions in conversation.
 
 **Working with:** TypeScript · React Native / Expo · NestJS · Python / FastAPI · PostgreSQL · Redis · Docker
+
 **Interested in:** agent orchestration, eval design, prompt-injection defence, on-device inference
 
 [sujanbhatta0629@gmail.com](mailto:sujanbhatta0629@gmail.com)
