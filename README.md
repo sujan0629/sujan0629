@@ -1,11 +1,24 @@
-Sujan Bhatta - AI product engineer.
+# Sujan Bhatta
 
-I build LLM systems end to end: retrieval and agent pipelines, evaluation harnesses, and the React Native clients that ship them. Currently sole mobile engineer on two production apps live on the App Store and Google Play, working with a San Francisco team from Kathmandu.
+AI product engineer building systems across model integration, backend services, and web/mobile clients. Based in Kathmandu, Nepal, with experience working remotely with a San Francisco team.
 
-Most of my production work is in private repositories under @codelitsstudio, @Humanity-Founders and @Playxio-Hub, so this profile shows a fraction of it. Happy to walk through architecture and decisions in conversation.
+My work includes production LLM workflow integration, structured outputs and execution controls, queued work and recovery paths, and backend ownership with PostgreSQL, pgvector, Prisma, and BullMQ. I also build with TypeScript, Python, React, React Native/Expo, NestJS, and FastAPI.
 
-**Working with:** TypeScript · React Native / Expo · NestJS · Python / FastAPI · PostgreSQL · Redis · Docker
+[Portfolio and case studies](https://www.sujanbhatta.tech/) · [LLM automation case study](https://www.sujanbhatta.tech/work/llm-phone-automation)
 
-**Interested in:** agent orchestration, eval design, prompt-injection defence, on-device inference
+## Selected public projects
 
-[sujanbhatta0629@gmail.com](mailto:sujanbhatta0629@gmail.com)
+| Project | What to explore |
+| --- | --- |
+| [PocketDev](https://github.com/sujan0629/pocket-dev) | Mobile development workspace prototype: files, streamed PTY terminals, Git, and optional local-model assistance |
+| [Chirp](https://github.com/sujan0629/chirp-tanstack-grpc) | Social application monorepo with user/moderation clients and a gRPC API |
+| [Git Discipline](https://github.com/sujan0629/git-discipline) | Cross-stack Git conventions, local hooks, and CI workflow template |
+| [Expo + NativeWind starter](https://github.com/sujan0629/reactnative-expo-nativewind-template) | Reusable mobile app foundation with neutral branding and setup |
+| [HomeLink](https://github.com/sujan0629/homelink-IoT) | ESP32, NestJS/Socket.IO, and React Native connected-home integration |
+| [Traffic queue simulator](https://github.com/sujan0629/dsa-queue-simulator) | C linked-list queues, priority scheduling, TCP IPC, and SDL2 visualization |
+
+Much of my production work lives in private organization repositories. The portfolio presents selected work within its disclosure boundaries; public prototypes are labeled according to their actual scope.
+
+Open to full-time roles and paid contracts with meaningful engineering ownership.
+
+Contact: [sujanbhatta0629@gmail.com](mailto:sujanbhatta0629@gmail.com)
