@@ -15,7 +15,6 @@ My work includes production LLM workflow integration, structured outputs and exe
 | [Git Discipline](https://github.com/sujan0629/git-discipline) | Cross-stack Git conventions, local hooks, and CI workflow template |
 | [Expo + NativeWind starter](https://github.com/sujan0629/reactnative-expo-nativewind-template) | Reusable mobile app foundation with neutral branding and setup |
 | [HomeLink](https://github.com/sujan0629/homelink-IoT) | ESP32, NestJS/Socket.IO, and React Native connected-home integration |
-| [Traffic queue simulator](https://github.com/sujan0629/dsa-queue-simulator) | C linked-list queues, priority scheduling, TCP IPC, and SDL2 visualization |
 
 Much of my production work lives in private organization repositories. The portfolio presents selected work within its disclosure boundaries; public prototypes are labeled according to their actual scope.
 
