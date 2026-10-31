@@ -1,6 +1,8 @@
 # Sujan Bhatta
 
-AI product engineer building systems across model integration, backend services, and web/mobile clients. Based in Kathmandu, Nepal, with experience working remotely with a San Francisco team.
+**AI Harnesses Architect · AI Product Engineer**
+
+I build the execution controls, tool integrations, recovery paths, and human review workflows around AI agents, alongside backend services and web/mobile clients. Based in Kathmandu, Nepal, with experience working remotely with a San Francisco team.
 
 My work includes production LLM workflow integration, structured outputs and execution controls, queued work and recovery paths, and backend ownership with PostgreSQL, pgvector, Prisma, and BullMQ. I also build with TypeScript, Python, React, React Native/Expo, NestJS, and FastAPI.
 
